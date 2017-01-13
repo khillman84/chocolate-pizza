@@ -1,0 +1,21 @@
+header {
+  border: 2px solid black;
+}
+
+#body-content {
+  border: 2px solid black:
+}
+
+footer {
+  border: 2px solid black;
+}
+
+.logos-box {
+  float:left;
+  display: inline;
+}
+
+.store-name {
+  float:left;
+  display: inline;
+}
