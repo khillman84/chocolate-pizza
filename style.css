@@ -120,6 +120,10 @@ h3 {
   font-size: large;
 }
 
+.indent {
+  text-indent: 40px;
+}
+
 #recipe-box {
   background-image: url(img/list-bg.png);
   height: 400px;
@@ -150,6 +154,10 @@ h3 {
   width: 100%;
 }
 
+#person-info {
+  margin-left: 30px;
+}
+
 #person-photo {
   float: left;
 }
@@ -171,10 +179,21 @@ h3 {
 footer {
   float: left;
   width: 100%;
+  margin-bottom: 80px;
+}
+
+#small-logo {
+  height: 60px;
+  width: 60px;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  color: grey;
 }
 
 .legal-info {
   margin: auto;
   width: 50%;
   text-align: center;
+  color: grey;
 }
